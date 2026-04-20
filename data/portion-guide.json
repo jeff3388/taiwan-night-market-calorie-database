@@ -1,0 +1,67 @@
+[
+  {
+    "id": "visual-estimation",
+    "topic_zh": "夜市食物目視份量估算法",
+    "method_zh": "用手掌、拳頭作為標準量器，不需要電子秤",
+    "guides": [
+      {
+        "food_zh": "滷肉飯米飯",
+        "visual_guide_zh": "一個拳頭大小（約 150–200g 熟飯）= 210–280 kcal",
+        "tip_zh": "超過一個拳頭就要注意份量"
+      },
+      {
+        "food_zh": "雞排",
+        "visual_guide_zh": "標準雞排約 A4 紙的 1/2 大，厚 1cm = 約 200g",
+        "tip_zh": "要求切小塊，吃一半（100g）≈ 290 kcal"
+      },
+      {
+        "food_zh": "蚵仔煎",
+        "visual_guide_zh": "標準一份直徑約 18–20cm（平底鍋大小）",
+        "tip_zh": "吃一半分享 = 約 160 kcal"
+      },
+      {
+        "food_zh": "大腸麵線",
+        "visual_guide_zh": "標準碗（直徑約 15cm）約 350–400g",
+        "tip_zh": "要求「少芡」（勾芡減半）= 碳水降低約 15g"
+      },
+      {
+        "food_zh": "珍珠奶茶",
+        "visual_guide_zh": "700ml = 約 3 杯水的量",
+        "tip_zh": "改點 M 杯（500ml）無糖 = 只有珍珠的 60 kcal"
+      }
+    ],
+    "_meta": { "last_updated": "2026-04-16" }
+  },
+  {
+    "id": "calorie-budget-planning",
+    "topic_zh": "夜市熱量預算規劃",
+    "strategy_zh": "把夜市當成「一頓正餐」而非「零食」，提前設定熱量預算",
+    "scenarios": [
+      {
+        "scenario_zh": "減重期（每日 TDEE 赤字 -500 kcal，約 1500 kcal/天）",
+        "night_market_budget_kcal": 400,
+        "suggested_combination_zh": "大腸麵線（320）+ 烤玉米（240）選一 + 無糖手搖飲（80）"
+      },
+      {
+        "scenario_zh": "維持期（每日約 1800 kcal）",
+        "night_market_budget_kcal": 600,
+        "suggested_combination_zh": "蚵仔煎（320）+ 烤魷魚（150）+ 無糖飲品（80）"
+      },
+      {
+        "scenario_zh": "偶爾放縱（每月 1–2 次）",
+        "night_market_budget_kcal": 900,
+        "suggested_combination_zh": "雞排（580）+ 蚵仔煎（320）擇一 + 一杯珍奶（580）；隔天其他兩餐清淡補回"
+      }
+    ],
+    "_meta": { "last_updated": "2026-04-16" }
+  },
+  {
+    "id": "nutrient-balance-tips",
+    "topic_zh": "夜市飲食營養均衡建議",
+    "protein_tip_zh": "多數夜市食物蛋白質不足（滷肉飯只有 15g），主動選擇一項高蛋白食物（烤魷魚、蚵仔煎、茶葉蛋）配主食",
+    "vegetable_tip_zh": "夜市蔬菜嚴重不足，可搭配燙青菜（若攤位有）或回家補充一份蔬菜",
+    "fiber_tip_zh": "玉米、關東煮蒟蒻是夜市少數有膳食纖維的選項，優先選擇",
+    "hydration_tip_zh": "夜市環境熱（尤其夏季），飲食本身鈉含量高，需多補充水分（白開水，非飲料）",
+    "_meta": { "last_updated": "2026-04-16" }
+  }
+]

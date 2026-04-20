@@ -1,0 +1,27 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Taiwan Night Market Calorie Database Schema",
+  "definitions": {
+    "StreetFood": {
+      "type": "object",
+      "required": ["id", "name_zh", "standard_serving_g", "calories_kcal", "source"],
+      "properties": {
+        "id": { "type": "string" },
+        "name_zh": { "type": "string" },
+        "name_en": { "type": "string" },
+        "standard_serving_g": { "type": "number" },
+        "calories_kcal": { "type": "number" },
+        "protein_g": { "type": "number" },
+        "fat_g": { "type": "number" },
+        "carbs_g": { "type": "number" },
+        "calorie_level": {
+          "type": "string",
+          "enum": ["light", "moderate", "high", "very_high"],
+          "description": "light < 250 kcal; moderate 250–400; high 400–600; very_high > 600"
+        },
+        "note_zh": { "type": "string" },
+        "source": { "type": "string" }
+      }
+    }
+  }
+}

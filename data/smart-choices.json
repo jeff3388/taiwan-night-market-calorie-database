@@ -1,0 +1,87 @@
+[
+  {
+    "id": "best-protein-options",
+    "category_zh": "最佳蛋白質選擇（高蛋白/低熱量比）",
+    "items": [
+      {
+        "name_zh": "烤魷魚（一串）",
+        "calories_kcal": 150,
+        "protein_g": 18,
+        "protein_calorie_ratio": 12.0,
+        "why_zh": "蛋白質最高、脂肪極低的夜市選項"
+      },
+      {
+        "name_zh": "關東煮（蛋＋豆腐＋蒟蒻）",
+        "calories_kcal": 180,
+        "protein_g": 16,
+        "protein_calorie_ratio": 8.9,
+        "why_zh": "三樣加起來不到 200 kcal，蛋白質充足，膳食纖維高"
+      },
+      {
+        "name_zh": "大腸麵線（一碗）",
+        "calories_kcal": 320,
+        "protein_g": 14,
+        "protein_calorie_ratio": 4.4,
+        "why_zh": "夜市主食中熱量偏低，可要求「少勾芡」降低碳水"
+      }
+    ],
+    "_meta": { "last_updated": "2026-04-16" }
+  },
+  {
+    "id": "low-calorie-under-300",
+    "category_zh": "低熱量選項（< 300 kcal）",
+    "items": [
+      { "name_zh": "烤玉米（刷醬）", "calories_kcal": 240, "note_zh": "要求少刷糖醬可降至 200 kcal" },
+      { "name_zh": "烤魷魚", "calories_kcal": 150 },
+      { "name_zh": "豬血糕", "calories_kcal": 160, "note_zh": "鐵質豐富，但糯米升糖指數高" },
+      { "name_zh": "章魚燒（6顆，少醬）", "calories_kcal": 230, "note_zh": "要求少美乃滋" },
+      { "name_zh": "關東煮組合", "calories_kcal": 180 }
+    ],
+    "_meta": { "last_updated": "2026-04-16" }
+  },
+  {
+    "id": "avoid-when-dieting",
+    "category_zh": "減重期間避免或嚴格限量",
+    "items": [
+      {
+        "name_zh": "大腸包小腸",
+        "calories_kcal": 620,
+        "reason_zh": "糯米 GI=98 + 香腸脂肪，熱量等同一餐正餐"
+      },
+      {
+        "name_zh": "雞排（炸）",
+        "calories_kcal": 580,
+        "reason_zh": "油炸脂肪高，但可選烤雞排（約 380 kcal）替代"
+      },
+      {
+        "name_zh": "珍珠奶茶（全糖）",
+        "calories_kcal": 580,
+        "reason_zh": "液態熱量不提供飽足感，含糖量為每日建議的 4 倍"
+      },
+      {
+        "name_zh": "蔥油餅加蛋",
+        "calories_kcal": 460,
+        "reason_zh": "豬油層熱量密度高，碳水和脂肪皆高"
+      },
+      {
+        "name_zh": "芋圓燒仙草（加料）",
+        "calories_kcal": 380,
+        "reason_zh": "碳水幾乎全來自糯米澱粉和糖水，無蛋白質"
+      }
+    ],
+    "_meta": { "last_updated": "2026-04-16" }
+  },
+  {
+    "id": "ordering-tips",
+    "category_zh": "點餐調整技巧",
+    "tips_zh": [
+      "蚵仔煎、麵線要求「醬汁另放」，可自己控制用量（省 40–80 kcal）",
+      "滷肉飯要求「少飯」或「半飯」，搭配湯青菜更均衡",
+      "關東煮選豆腐、蒟蒻、雞蛋，避免魚板（高鈉、高澱粉）",
+      "手搖飲改無糖（甜感來自茶本身），熱量從 580 kcal 降至 80 kcal",
+      "燒仙草要求「少糖無珍珠」（仙草本身熱量約 30 kcal）",
+      "油炸食物（炸臭豆腐、雞排）可用廚房紙巾輕按表面，吸去部分油脂（減少約 10–15% 脂肪）"
+    ],
+    "_meta": { "last_updated": "2026-04-16" }
+  }
+]
